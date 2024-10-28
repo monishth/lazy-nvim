@@ -3,4 +3,3 @@
 -- Add any additional options here
 --
 vim.opt.colorcolumn = "80"
-vim.g.root_spec = { "cwd" }
